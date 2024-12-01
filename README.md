@@ -82,10 +82,10 @@
   <br>
   
   Аналіз даних країн за допомогою методів кластеризації та дискримінантного аналізу. Дослідження включало створення візуалізацій для порівняння груп у середовищах RStudio та STATISTICA. Проєкт виконувався для визначення схожостей між країнами за соціально-економічними показниками.
-  <br><br>
-  Для детальнішого ознайомлення з результатами роботи, перегляньте проєкт за посиланням:  https://docs.google.com/document/d/1sanlt5CbR7ejqgfs_bWyPXIsyF7QptHyCzvUj20ANUI/edit?usp=sharing 
- 
-<a href="[https://docs.google.com/document/d/1sanlt....](https://docs.google.com/document/d/1sanlt5CbR7ejqgfs_bWyPXIsyF7QptHyCzvUj20ANUI/edit?usp=sharing )">Переглянути роботу</a>
+
+Для детальнішого ознайомлення з результатами роботи, перегляньте проєкт за посиланням: 
+<a href="https://docs.google.com/document/d/1sanlt5CbR7ejqgfs_bWyPXIsyF7QptHyCzvUj20ANUI/edit?usp=sharing" target="_blank"> кластерний, </a> та 
+<a href="https://docs.google.com/document/d/1mwJ3ykafe2eIRCkNLDsGQUzjqOWyHGyLzMfp5Kk85nE/edit?usp=sharing" target="_blank"> дискримінантний </a> аналізи.
 
 
 </details>

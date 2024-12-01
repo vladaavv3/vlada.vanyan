@@ -86,8 +86,28 @@
 Для детальнішого ознайомлення з результатами роботи, перегляньте проєкт за посиланням: 
 <a href="https://docs.google.com/document/d/1sanlt5CbR7ejqgfs_bWyPXIsyF7QptHyCzvUj20ANUI/edit?usp=sharing" target="_blank"> кластерний, </a> та 
 <a href="https://docs.google.com/document/d/1mwJ3ykafe2eIRCkNLDsGQUzjqOWyHGyLzMfp5Kk85nE/edit?usp=sharing" target="_blank"> дискримінантний </a> аналізи.
-
-
 </details>
+
+<details>
+  <summary style="list-style-type: none; cursor: pointer; display: flex; align-items: center; font-size: 16px;">
+    <span style="font-size: 20px;"></span> 
+    <span style="margin-left: 5px;">🌐 Web developer(HTML/CSS)💻 🔽</span>
+  </summary>
+
+  <b>Використані інструменти:</b> <!-- HTML -->![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)<!-- CSS -->![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)<!-- JavaScript -->![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)![Google Chrome](https://img.shields.io/badge/Google_Chrome-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white)<!-- VS Code -->![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+  <p>Курсовий проєкт на тему: «Створення контентного Web-сайту “Допомога біженцям та тим, хто залишився в Україні”». <br>
+  <a href="https://docs.google.com/document/d/1aZnsDyDybpsHDjTp-0U2SHIekTXJdZd65vGIGclYf-c/edit?usp=sharing" target="_blank">Файл Word курсової роботи</a>.</p>
+
+  <p>Мета курсової роботи – допомогти біженцям спланувати куди поїхати, забезпечити інформацією щодо вимог країн, які приймають. Для людей, що залишились в Україні, надати актуальну інформацію щодо ситуацій через канали зв’язку. Забезпечити безпечні канали або сторінки для оновленого спілкування між нужденними.</p>
+
+  <p>ПОСИЛАННЯ: 
+  <a href="https://github.com/vladaavv3/helprefugees" target="_blank">Репозиторій</a> та 
+  <a href="https://vladaavv3.github.io/helprefugees/index.html" target="_blank">Сайт</a>.
+  </p>
+</details>
+
+
+
 
 

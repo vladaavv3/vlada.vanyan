@@ -17,7 +17,6 @@
         <li>SQL: робота з табличними базами даних, створення запитів.</li>
         <li>Python: обробка та аналіз даних (pandas, numpy), створення моделей прогнозування.</li>
         <li>R: статистичний аналіз і візуалізація даних (ggplot2, dplyr).</li>
-        <li>HTML, CSS: базова розробка веб-сторінок для інтерактивної презентації даних.</li>
       </ul>
     </li>
     <li><b>Аналітика:</b>
@@ -33,7 +32,7 @@
     </li>
     <li><b>Інші інструменти:</b>
       <ul>
-        <li>Word, PowerPoint, Draw.io, Miro, GPT-chat.</li>
+        <li> Word, PowerPoint, Draw.io, GPT-chat.</li>
         <li>Наприклад, використовую Draw.io для моделювання процесів і створення схем. Також GPT-чат для оптимізації робочих завдань і генерації ідей.</li>
       </ul>
     </li>
@@ -72,41 +71,23 @@
 
 ## Проєкти
 
-<details>
-  <summary style="list-style-type: none; cursor: pointer; display: flex; align-items: center; font-size: 16px;">
-    <span style="font-size: 20px;"></span> 
-    <span style="margin-left: 5px;">📊 Класифікація країн методами Data Science📈 🔽</span>
-  </summary>
-  
-  <b>Використані інструменти:</b> <!-- Excel -->![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<!-- RStudio -->![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)<!-- STATISTICA -->![STATISTICA](https://img.shields.io/badge/STATISTICA-1A8C93?style=for-the-badge&logo=statsoft&logoColor=white)<!-- R -->![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  <br>
-  
-  Аналіз даних країн за допомогою методів кластеризації та дискримінантного аналізу. Дослідження включало створення візуалізацій для порівняння груп у середовищах RStudio та STATISTICA. Проєкт виконувався для визначення схожостей між країнами за соціально-економічними показниками.
+SQL
+TABLEAU
+POWER BI
+EXCEL 
+GOOGLE SHEETS
+PYTHON | JUPITER NOTEBOOK
+R | RSUDIO 
 
-Для детальнішого ознайомлення з результатами роботи, перегляньте проєкт за посиланням: 
-<a href="https://docs.google.com/document/d/1sanlt5CbR7ejqgfs_bWyPXIsyF7QptHyCzvUj20ANUI/edit?usp=sharing" target="_blank"> кластерний, </a> та 
-<a href="https://docs.google.com/document/d/1mwJ3ykafe2eIRCkNLDsGQUzjqOWyHGyLzMfp5Kk85nE/edit?usp=sharing" target="_blank"> дискримінантний </a> аналізи.
-</details>
 
-<details>
-  <summary style="list-style-type: none; cursor: pointer; display: flex; align-items: center; font-size: 16px;">
-    <span style="font-size: 20px;"></span> 
-    <span style="margin-left: 5px;">🌐 Web developer(HTML/CSS)💻 🔽</span>
-  </summary>
+1) 
 
-  <b>Використані інструменти:</b> <!-- HTML -->![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)<!-- CSS -->![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)<!-- JavaScript -->![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)![Google Chrome](https://img.shields.io/badge/Google_Chrome-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white)<!-- VS Code -->![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+2) 
 
-  <p>Курсовий проєкт на тему: «Створення контентного Web-сайту “Допомога біженцям та тим, хто залишився в Україні”». <br>
-  <a href="https://docs.google.com/document/d/1aZnsDyDybpsHDjTp-0U2SHIekTXJdZd65vGIGclYf-c/edit?usp=sharing" target="_blank">Файл Word курсової роботи</a>.</p>
 
-  <p>Мета курсової роботи – допомогти біженцям спланувати куди поїхати, забезпечити інформацією щодо вимог країн, які приймають. Для людей, що залишились в Україні, надати актуальну інформацію щодо ситуацій через канали зв’язку. Забезпечити безпечні канали або сторінки для оновленого спілкування між нужденними.</p>
+///
 
-  <p>ПОСИЛАННЯ: 
-  <a href="https://github.com/vladaavv3/helprefugees" target="_blank">Репозиторій</a> та 
-  <a href="https://vladaavv3.github.io/helprefugees/index.html" target="_blank">Сайт</a>.
-  </p>
-</details>
-
+To be continued ....
 
 
 
